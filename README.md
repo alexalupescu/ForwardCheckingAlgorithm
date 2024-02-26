@@ -20,5 +20,5 @@ The application was successfully finalized in C# with the expected results. By i
 ![image](https://github.com/alexalupescu/ForwardCheckingAlgorithm/assets/134335603/80c8d1c5-5b20-4b83-8830-172275bfc044)
 
 **Bibliography**
-2. https://www.csie.ntu.edu.tw/~d91003/ai/project2/
-3. https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/
+https://www.csie.ntu.edu.tw/~d91003/ai/project2/
+https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/
