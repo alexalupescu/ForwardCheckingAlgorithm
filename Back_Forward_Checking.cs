@@ -1,3 +1,12 @@
+/** 
+The Back_Forward_Checking method involves implementing the backtracking part and the check before. 
+Initially, a region without an assigned color is selected from the list of regions. 
+In the the next phase, the list of colors will be cycled through. It is checked if a neighbor has this assigned
+color. If yes, it moves to the next color in the list. When an available color is found, the neighbors are notified 
+that they can no longer use it and it's checked beforehand if this choice will not block
+later the program. If yes, it will be changed to another color and the neighbors will be notified that they can use it
+the previous color.
+**/
 public int Back_Forward_Checking(int dimension)
 {
        if(dimension==Regions_List.Count())
