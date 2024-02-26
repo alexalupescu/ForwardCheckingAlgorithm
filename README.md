@@ -11,6 +11,7 @@ The Forward Checking algorithm performs consistency tests with future variables,
 The application was successfully finalized in C# with the expected results. By implementing the algorithm, it was possible to color a map, using three colors (ex. Australia map) and for the other maps using four color (Europe, SUA, Africa maps).
 
 **Screenshots**
+
 **Application Menu**
 
 ![image](https://github.com/alexalupescu/ForwardCheckingAlgorithm/assets/134335603/099fa370-afa6-44df-922c-f841c6734dcd)
@@ -20,5 +21,7 @@ The application was successfully finalized in C# with the expected results. By i
 ![image](https://github.com/alexalupescu/ForwardCheckingAlgorithm/assets/134335603/80c8d1c5-5b20-4b83-8830-172275bfc044)
 
 **Bibliography**
+
 https://www.csie.ntu.edu.tw/~d91003/ai/project2/
+
 https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/
